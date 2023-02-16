@@ -1,10 +1,10 @@
-<?xml version="1.0" standalone="no"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <mlt LC_NUMERIC="C" version="7.8.0" title="Shotcut version 22.06.23" producer="main_bin">
-  <profile description="automatic" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="30000" frame_rate_den="1001" colorspace="709"/>
-  <chain id="chain0" out="00:00:13.013">
+  <profile description="automatic" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="30000" frame_rate_den="1001" colorspace="709" />
+  <chain id="4cc0fd3dfeef976aa5bb2ed3bcb26a41" out="00:00:13.013">
     <property name="length">00:00:13.046</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/tongcheng/Library/CloudStorage/OneDrive-HKUSTConnect/zonic/zonic-source/01.mp4</property>
+    <property name="resource">$$/01.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
@@ -13,10 +13,10 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">4cc0fd3dfeef976aa5bb2ed3bcb26a41</property>
   </chain>
-  <chain id="chain1" out="00:00:06.974">
+  <chain id="4c4c466aa3290386f2169ff19d7d9103" out="00:00:06.974">
     <property name="length">00:00:07.007</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/tongcheng/Library/CloudStorage/OneDrive-HKUSTConnect/zonic/zonic-source/02.mp4</property>
+    <property name="resource">$$/02.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">1</property>
@@ -25,10 +25,10 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">4c4c466aa3290386f2169ff19d7d9103</property>
   </chain>
-  <chain id="chain2" out="00:00:07.975">
+  <chain id="08a8820ff6fdd821a7dbe7b2b1707bde" out="00:00:07.975">
     <property name="length">00:00:08.008</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/tongcheng/Library/CloudStorage/OneDrive-HKUSTConnect/zonic/zonic-source/03.mp4</property>
+    <property name="resource">$$/03.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
@@ -37,10 +37,10 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">08a8820ff6fdd821a7dbe7b2b1707bde</property>
   </chain>
-  <chain id="chain3" out="00:00:04.972">
+  <chain id="8696e06004330020b1ce3a2c17fbf3f2" out="00:00:04.972">
     <property name="length">00:00:05.005</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/tongcheng/Library/CloudStorage/OneDrive-HKUSTConnect/zonic/zonic-source/04.mp4</property>
+    <property name="resource">$$/04.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
@@ -49,10 +49,10 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">8696e06004330020b1ce3a2c17fbf3f2</property>
   </chain>
-  <chain id="chain4" out="00:00:07.975">
+  <chain id="9125fff2d6fcf1cfbd2c369463e80c1a" out="00:00:07.975">
     <property name="length">00:00:08.008</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/tongcheng/Library/CloudStorage/OneDrive-HKUSTConnect/zonic/zonic-source/05.mp4</property>
+    <property name="resource">$$/05.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
@@ -61,10 +61,10 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">9125fff2d6fcf1cfbd2c369463e80c1a</property>
   </chain>
-  <chain id="chain5" out="00:00:08.976">
+  <chain id="37bde3d38301ef3966d0477afae41442" out="00:00:08.976">
     <property name="length">00:00:09.009</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/tongcheng/Library/CloudStorage/OneDrive-HKUSTConnect/zonic/zonic-source/06.mp4</property>
+    <property name="resource">$$/06.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
@@ -73,10 +73,10 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">37bde3d38301ef3966d0477afae41442</property>
   </chain>
-  <chain id="chain6" out="00:00:15.015">
+  <chain id="cf3e9f9a98bdc452ad9a9469cfa99be9" out="00:00:15.015">
     <property name="length">00:00:15.048</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/tongcheng/Library/CloudStorage/OneDrive-HKUSTConnect/zonic/zonic-source/07.mp4</property>
+    <property name="resource">$$/07.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
@@ -85,10 +85,10 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">cf3e9f9a98bdc452ad9a9469cfa99be9</property>
   </chain>
-  <chain id="chain7" out="00:00:05.973">
+  <chain id="7fb2e59013054c69ac41a523315b5c00" out="00:00:05.973">
     <property name="length">00:00:06.006</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/tongcheng/Library/CloudStorage/OneDrive-HKUSTConnect/zonic/zonic-source/08.mp4</property>
+    <property name="resource">$$/08.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
@@ -97,10 +97,10 @@
     <property name="xml">was here</property>
     <property name="shotcut:hash">7fb2e59013054c69ac41a523315b5c00</property>
   </chain>
-  <chain id="chain8" out="00:02:26.159">
+  <chain id="588f83c9d5fb8e0548f10d5280546474" out="00:02:26.159">
     <property name="length">00:02:26.193</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/tongcheng/Library/CloudStorage/OneDrive-HKUSTConnect/zonic/zonic-source/音樂.mp3</property>
+    <property name="resource">$$/音樂.mp3</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">0</property>
@@ -113,18 +113,18 @@
     <property name="shotcut:projectAudioChannels">2</property>
     <property name="shotcut:projectFolder">0</property>
     <property name="xml_retain">1</property>
-    <entry producer="chain0" in="00:00:00.000" out="00:00:13.013"/>
-    <entry producer="chain1" in="00:00:00.000" out="00:00:06.974"/>
-    <entry producer="chain2" in="00:00:00.000" out="00:00:07.975"/>
-    <entry producer="chain3" in="00:00:00.000" out="00:00:04.972"/>
-    <entry producer="chain4" in="00:00:00.000" out="00:00:07.975"/>
-    <entry producer="chain5" in="00:00:00.000" out="00:00:08.976"/>
-    <entry producer="chain6" in="00:00:00.000" out="00:00:15.015"/>
-    <entry producer="chain7" in="00:00:00.000" out="00:00:05.973"/>
-    <entry producer="chain8" in="00:00:00.000" out="00:02:26.159"/>
+    <entry producer="4cc0fd3dfeef976aa5bb2ed3bcb26a41" in="00:00:00.000" out="00:00:13.013" />
+    <entry producer="4c4c466aa3290386f2169ff19d7d9103" in="00:00:00.000" out="00:00:06.974" />
+    <entry producer="08a8820ff6fdd821a7dbe7b2b1707bde" in="00:00:00.000" out="00:00:07.975" />
+    <entry producer="8696e06004330020b1ce3a2c17fbf3f2" in="00:00:00.000" out="00:00:04.972" />
+    <entry producer="9125fff2d6fcf1cfbd2c369463e80c1a" in="00:00:00.000" out="00:00:07.975" />
+    <entry producer="37bde3d38301ef3966d0477afae41442" in="00:00:00.000" out="00:00:08.976" />
+    <entry producer="cf3e9f9a98bdc452ad9a9469cfa99be9" in="00:00:00.000" out="00:00:15.015" />
+    <entry producer="7fb2e59013054c69ac41a523315b5c00" in="00:00:00.000" out="00:00:05.973" />
+    <entry producer="588f83c9d5fb8e0548f10d5280546474" in="00:00:00.000" out="00:02:26.159" />
   </playlist>
-  <producer id="black" in="00:00:00.000" out="00:01:11.111">
-    <property name="length">00:01:11.144</property>
+  <producer id="black" in="00:00:00.000" out="04:00:00">
+    <property name="length">04:00:00</property>
     <property name="eof">pause</property>
     <property name="resource">0</property>
     <property name="aspect_ratio">1</property>
@@ -133,12 +133,12 @@
     <property name="set.test_audio">0</property>
   </producer>
   <playlist id="background">
-    <entry producer="black" in="00:00:00.000" out="00:01:11.111"/>
+    <entry producer="black" in="00:00:00.000" out="04:00:00" />
   </playlist>
-  <chain id="chain9" out="00:00:13.013">
+  <chain id="4cc0fd3dfeef976aa5bb2ed3bcb26a41" out="00:00:13.013">
     <property name="length">00:00:13.046</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/tongcheng/Library/CloudStorage/OneDrive-HKUSTConnect/zonic/zonic-source/01.mp4</property>
+    <property name="resource">$$/01.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
@@ -148,10 +148,10 @@
     <property name="shotcut:hash">4cc0fd3dfeef976aa5bb2ed3bcb26a41</property>
     <property name="shotcut:caption">01.mp4</property>
   </chain>
-  <chain id="chain10" out="00:00:06.974">
+  <chain id="4c4c466aa3290386f2169ff19d7d9103" out="00:00:06.974">
     <property name="length">00:00:07.007</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/tongcheng/Library/CloudStorage/OneDrive-HKUSTConnect/zonic/zonic-source/02.mp4</property>
+    <property name="resource">$$/02.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">1</property>
@@ -161,10 +161,10 @@
     <property name="shotcut:hash">4c4c466aa3290386f2169ff19d7d9103</property>
     <property name="shotcut:caption">02.mp4</property>
   </chain>
-  <chain id="chain11" out="00:00:07.975">
+  <chain id="08a8820ff6fdd821a7dbe7b2b1707bde" out="00:00:07.975">
     <property name="length">00:00:08.008</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/tongcheng/Library/CloudStorage/OneDrive-HKUSTConnect/zonic/zonic-source/03.mp4</property>
+    <property name="resource">$$/03.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
@@ -174,10 +174,10 @@
     <property name="shotcut:hash">08a8820ff6fdd821a7dbe7b2b1707bde</property>
     <property name="shotcut:caption">03.mp4</property>
   </chain>
-  <chain id="chain12" out="00:00:04.972">
+  <chain id="8696e06004330020b1ce3a2c17fbf3f2" out="00:00:04.972">
     <property name="length">00:00:05.005</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/tongcheng/Library/CloudStorage/OneDrive-HKUSTConnect/zonic/zonic-source/04.mp4</property>
+    <property name="resource">$$/04.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
@@ -187,10 +187,10 @@
     <property name="shotcut:hash">8696e06004330020b1ce3a2c17fbf3f2</property>
     <property name="shotcut:caption">04.mp4</property>
   </chain>
-  <chain id="chain13" out="00:00:07.975">
+  <chain id="9125fff2d6fcf1cfbd2c369463e80c1a" out="00:00:07.975">
     <property name="length">00:00:08.008</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/tongcheng/Library/CloudStorage/OneDrive-HKUSTConnect/zonic/zonic-source/05.mp4</property>
+    <property name="resource">$$/05.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
@@ -200,10 +200,10 @@
     <property name="shotcut:hash">9125fff2d6fcf1cfbd2c369463e80c1a</property>
     <property name="shotcut:caption">05.mp4</property>
   </chain>
-  <chain id="chain14" out="00:00:08.976">
+  <chain id="37bde3d38301ef3966d0477afae41442" out="00:00:08.976">
     <property name="length">00:00:09.009</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/tongcheng/Library/CloudStorage/OneDrive-HKUSTConnect/zonic/zonic-source/06.mp4</property>
+    <property name="resource">$$/06.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
@@ -213,10 +213,10 @@
     <property name="shotcut:hash">37bde3d38301ef3966d0477afae41442</property>
     <property name="shotcut:caption">06.mp4</property>
   </chain>
-  <chain id="chain15" out="00:00:15.015">
+  <chain id="cf3e9f9a98bdc452ad9a9469cfa99be9" out="00:00:15.015">
     <property name="length">00:00:15.048</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/tongcheng/Library/CloudStorage/OneDrive-HKUSTConnect/zonic/zonic-source/07.mp4</property>
+    <property name="resource">$$/07.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
@@ -226,10 +226,10 @@
     <property name="shotcut:hash">cf3e9f9a98bdc452ad9a9469cfa99be9</property>
     <property name="shotcut:caption">07.mp4</property>
   </chain>
-  <chain id="chain16" out="00:00:05.973">
+  <chain id="7fb2e59013054c69ac41a523315b5c00" out="00:00:05.973">
     <property name="length">00:00:06.006</property>
     <property name="eof">pause</property>
-    <property name="resource">/Users/tongcheng/Library/CloudStorage/OneDrive-HKUSTConnect/zonic/zonic-source/08.mp4</property>
+    <property name="resource">$$/08.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
     <property name="audio_index">-1</property>
@@ -242,21 +242,21 @@
   <playlist id="playlist0">
     <property name="shotcut:video">1</property>
     <property name="shotcut:name">V1</property>
-    <entry producer="chain9" in="00:00:00.000" out="00:00:13.013"/>
-    <entry producer="chain10" in="00:00:00.000" out="00:00:06.974"/>
-    <entry producer="chain11" in="00:00:00.000" out="00:00:07.975"/>
-    <entry producer="chain12" in="00:00:00.000" out="00:00:04.972"/>
-    <entry producer="chain13" in="00:00:00.000" out="00:00:07.975"/>
-    <entry producer="chain14" in="00:00:00.000" out="00:00:08.976"/>
-    <entry producer="chain15" in="00:00:00.000" out="00:00:15.015"/>
-    <entry producer="chain16" in="00:00:00.000" out="00:00:05.973"/>
+    <entry producer="4cc0fd3dfeef976aa5bb2ed3bcb26a41" in="00:00:00.000" out="00:00:13.013" />
+    <entry producer="4c4c466aa3290386f2169ff19d7d9103" in="00:00:00.000" out="00:00:06.974" />
+    <entry producer="08a8820ff6fdd821a7dbe7b2b1707bde" in="00:00:00.000" out="00:00:07.975" />
+    <entry producer="8696e06004330020b1ce3a2c17fbf3f2" in="00:00:00.000" out="00:00:04.972" />
+    <entry producer="9125fff2d6fcf1cfbd2c369463e80c1a" in="00:00:00.000" out="00:00:07.975" />
+    <entry producer="37bde3d38301ef3966d0477afae41442" in="00:00:00.000" out="00:00:08.976" />
+    <entry producer="cf3e9f9a98bdc452ad9a9469cfa99be9" in="00:00:00.000" out="00:00:15.015" />
+    <entry producer="7fb2e59013054c69ac41a523315b5c00" in="00:00:00.000" out="00:00:05.973" />
   </playlist>
-  <tractor id="tractor0" title="Shotcut version 22.06.23" in="00:00:00.000" out="00:01:11.111">
+  <tractor id="tractor0" title="Shotcut version 22.06.23" in="00:00:00.000" out="04:00:00">
     <property name="shotcut">1</property>
     <property name="shotcut:projectAudioChannels">2</property>
     <property name="shotcut:projectFolder">0</property>
-    <track producer="background"/>
-    <track producer="playlist0"/>
+    <track producer="background" />
+    <track producer="playlist0" />
     <transition id="transition0">
       <property name="a_track">0</property>
       <property name="b_track">1</property>
