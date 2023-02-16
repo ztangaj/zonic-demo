@@ -243,13 +243,13 @@
   <playlist id="playlist0">
     <property name="shotcut:video">1</property>
     <property name="shotcut:name">V1</property>
-    <entry producer="4cc0fd3dfeef976aa5bb2ed3bcb26a41" in="00:00:00.000" out="00:00:13.013" />
+    <entry producer="4cc0fd3dfeef976aa5bb2ed3bcb26a41" in="00:00:00.000" out="00:00:10.210" />
     <entry producer="4c4c466aa3290386f2169ff19d7d9103" in="00:00:00.000" out="00:00:06.974" />
     <entry producer="08a8820ff6fdd821a7dbe7b2b1707bde" in="00:00:00.000" out="00:00:07.975" />
     <entry producer="8696e06004330020b1ce3a2c17fbf3f2" in="00:00:00.000" out="00:00:04.972" />
     <entry producer="9125fff2d6fcf1cfbd2c369463e80c1a" in="00:00:00.000" out="00:00:07.975" />
     <entry producer="37bde3d38301ef3966d0477afae41442" in="00:00:00.000" out="00:00:08.976" />
-    <entry producer="cf3e9f9a98bdc452ad9a9469cfa99be9" in="00:00:00.000" out="00:00:15.015" />
+    <entry producer="cf3e9f9a98bdc452ad9a9469cfa99be9" in="00:00:00.000" out="00:00:09.109" />
     <entry producer="7fb2e59013054c69ac41a523315b5c00" in="00:00:00.000" out="00:00:05.973" />
   </playlist>
   <chain id="588f83c9d5fb8e0548f10d5280546474" out="00:02:26.159">
