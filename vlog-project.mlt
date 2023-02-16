@@ -154,12 +154,13 @@
     <property name="resource">$$/02.mp4</property>
     <property name="mlt_service">avformat-novalidate</property>
     <property name="seekable">1</property>
-    <property name="audio_index">1</property>
+    <property name="audio_index">-1</property>
     <property name="video_index">0</property>
     <property name="mute_on_pause">0</property>
     <property name="xml">was here</property>
     <property name="shotcut:hash">4c4c466aa3290386f2169ff19d7d9103</property>
     <property name="shotcut:caption">02.mp4</property>
+    <property name="shotcut:defaultAudioIndex">1</property>
   </chain>
   <chain id="08a8820ff6fdd821a7dbe7b2b1707bde" out="00:00:07.975">
     <property name="length">00:00:08.008</property>
@@ -251,12 +252,31 @@
     <entry producer="cf3e9f9a98bdc452ad9a9469cfa99be9" in="00:00:00.000" out="00:00:15.015" />
     <entry producer="7fb2e59013054c69ac41a523315b5c00" in="00:00:00.000" out="00:00:05.973" />
   </playlist>
+  <chain id="588f83c9d5fb8e0548f10d5280546474" out="00:02:26.159">
+    <property name="length">00:02:26.193</property>
+    <property name="eof">pause</property>
+    <property name="resource">$$/音樂.mp3</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">588f83c9d5fb8e0548f10d5280546474</property>
+    <property name="shotcut:caption">音樂.mp3</property>
+  </chain>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <entry producer="588f83c9d5fb8e0548f10d5280546474" in="00:00:00.000" out="00:02:26.159" />
+  </playlist>
   <tractor id="tractor0" title="Shotcut version 22.06.23" in="00:00:00.000" out="04:00:00">
     <property name="shotcut">1</property>
     <property name="shotcut:projectAudioChannels">2</property>
     <property name="shotcut:projectFolder">0</property>
     <track producer="background" />
     <track producer="playlist0" />
+    <track producer="playlist1" hide="video" />
     <transition id="transition0">
       <property name="a_track">0</property>
       <property name="b_track">1</property>
@@ -271,6 +291,13 @@
       <property name="mlt_service">frei0r.cairoblend</property>
       <property name="threads">0</property>
       <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
     </transition>
   </tractor>
 </mlt>
